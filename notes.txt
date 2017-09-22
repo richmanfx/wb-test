@@ -1,0 +1,3 @@
+Для Виндовс:
+    echo "https://golang.org\nhttps://golang.org\nhttps://golang.org" | go run main.go      === беда
+
