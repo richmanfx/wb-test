@@ -1,2 +1,6 @@
 
-echo -e 'https://golang.org\nhttps://habrahabr.ru/company/intel/blog/338002/\nhttps://yandex.ru\nhttps://google.com\nhttp://1fmamsterdamtrance.radio.net\nhttps://www.upwork.com\nhttps://www.ozon.ru/context/detail/id/34671680\nhttps://en.wikipedia.org\nhttps://mail.ru' | go run src/cmd/wb-test/main.go
+Для тестирования:
+    echo -e 'https://golang.org\nhttps://habrahabr.ru/company/intel/blog/338002/\nhttps://yandex.ru\nhttps://google.com\nhttp://1fmamsterdamtrance.radio.net\nhttps://www.upwork.com\nhttps://www.ozon.ru/context/detail/id/34671680\nhttps://en.wikipedia.org\nhttps://mail.ru' | go run src/cmd/wb-test/main.go
+
+Отдельную ветку сделал:
+    jashhuk-branch
